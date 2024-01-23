@@ -1,0 +1,79 @@
+legend{
+    font-weight: bolder;
+}
+#main1{
+    display: flex;
+}
+form{
+    margin: auto;
+    background-color: deepskyblue;
+    width: 50%;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+.division4{
+    display: flex;
+}
+h1{
+    text-align: center;
+    font-family: FreeSerif;
+    font-weight: bolder;
+}
+#main2{
+    display: flex;
+}
+button[type=submit]{
+    background-color: green;
+    margin-left: 120px;
+     height: 40px;
+    width: 10%;
+    border-radius: 5px;
+}
+button[type=reset]{
+    background-color: blue;
+   margin-left: 100px;
+    height: 40px;
+    width: 10%;
+    border-radius: 5px;
+}
+input[type=text]{
+    margin-left: 50px;
+    height: 30px;
+    width: 50%;
+    border-radius: 5px;
+}
+input[type=date]{
+    margin-left: 50px;
+    height: 30px;
+    width: 50%;
+    border-radius: 5px;
+}
+#assign{
+    margin-left: 50px;
+}
+#type{
+    margin-left: 50px;
+     height: 30px;
+    width: 50%;
+    border-radius: 5px;
+
+}
+.division5{
+    margin-left: 70px;
+    margin-top: 13px;
+}
+.division6{
+    margin-top: 13px;
+
+
+}
+.division7{
+    margin-top: 13px;
+
+
+}
+label{
+    width: 100px;
+    display: inline-block;
+}

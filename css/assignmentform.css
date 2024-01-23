@@ -1,0 +1,43 @@
+body{
+    background-color: #a26e8a;
+}
+form{
+    background-color: darkred;
+    width: 50%;
+    margin: auto;
+    padding: 70px;
+}
+#assigno{
+    display: flex;
+}
+#description{
+    display: flex;
+}
+label{
+    width: 20%;
+    display: inline-block;
+}
+.division8{
+    width: 7%;
+    display: inline-block;
+    padding-left: 72px;
+    margin-top: 15px;
+}
+button[type=submit]{
+    width: 70%;
+    height: 50px;
+}
+input[type=text],[type=email],[type=password]{
+    height: 30px;
+    width: 40%;
+}
+#about{
+    height: 30px;
+    width: 40%;
+}
+label{
+    color: white;
+}
+p{
+    color: white;
+}
